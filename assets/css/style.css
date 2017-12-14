@@ -127,7 +127,7 @@ html, body {
 /*Fin css del loader*/
 /*fin seccion 1*/
 /*inicio seccion 2*/
-.buttons{
+.fondo{
 	background-image: url(../img/fondo-auto.jpg);
 	height: 100vh;
 	background-repeat: no-repeat;
@@ -142,3 +142,23 @@ html, body {
 	margin-right: auto;
 
 }
+.btn-group{
+	margin-top: 6em;
+}
+
+.lyftlife{
+	margin-top: 2em;
+}
+/*fin seccion 2*/
+/*inicio seccion 3*/
+#title-sing {
+  margin-top: -0.4em;
+  text-align: center;
+
+}
+#join {
+	margin-top: -0.4em;
+  text-align: center;
+
+}
+/*Fin seccion 3*/
